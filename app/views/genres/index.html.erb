@@ -1,0 +1,16 @@
+<h1>Genres</h1>
+<%= link_to 'New Genre', new_genre_path, class: 'btn btn-primary mb-3' %>
+
+<ul class="list-unstyled">
+  <% @genres.each do |genre| %>
+    <li class="mb-2">
+      <%= link_to genre.name, genre_path(genre), class: 'text-decoration-none' %>
+    </li>
+    <li class="mb-2">
+      <div class="btn-group ms-2">
+        <%= link_to 'Edit', edit_genre_path(genre), class: 'btn btn-warning btn-sm' %>
+        <%= link_to 'Delete', genre_path(genre), method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-danger btn-sm' %>
+      </div>
+    </li>
+  <% end %>
+</ul>

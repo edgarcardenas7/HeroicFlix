@@ -1,0 +1,66 @@
+=> 
+[[32m#<Movie:0x00007f68097be918[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mAvengers: Endgame[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.1223641414e10[0m,
+  created_at: Thu, 22 Aug 2024 01:21:43.174582000 UTC +00:00,
+  updated_at: Thu, 22 Aug 2024 01:21:43.174582000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mAfter the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.[0m[31m[1m"[0m,
+  released_on: Fri, 26 Apr 2019,
+  director: [31m[1m"[0m[31mAnthony Russo[0m[31m[1m"[0m,
+  duration: [31m[1m"[0m[31m181 min[0m[31m[1m"[0m,
+  image_file_name: [31m[1m"[0m[31mavengers-end-game.png[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Movie:0x00007f680971bdf8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mCaptain Marvel[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.1110662849e10[0m,
+  created_at: Mon, 19 Aug 2024 04:07:38.588169000 UTC +00:00,
+  updated_at: Mon, 19 Aug 2024 04:07:38.588169000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mCarol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.[0m[31m[1m"[0m,
+  released_on: Fri, 08 Mar 2019,
+  director: [31m[1m"[0m[31mAnna Boden[0m[31m[1m"[0m,
+  duration: [31m[1m"[0m[31m124 min[0m[31m[1m"[0m,
+  image_file_name: [31m[1m"[0m[31mcaptain-marvel.png[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Movie:0x00007f680971bb78[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mAvengers: Infinity War[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.2048359754e10[0m,
+  created_at: Mon, 19 Aug 2024 04:07:38.602963000 UTC +00:00,
+  updated_at: Mon, 19 Aug 2024 04:07:38.602963000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mThe Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.[0m[31m[1m"[0m,
+  released_on: Fri, 27 Apr 2018,
+  director: [31m[1m"[0m[31mAnthony Russo[0m[31m[1m"[0m,
+  duration: [31m[1m"[0m[31m149 min[0m[31m[1m"[0m,
+  image_file_name: [31m[1m"[0m[31mavengers-infinity-war.png[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Movie:0x00007f680971ba60[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mBlack Panther[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.1346913161e10[0m,
+  created_at: Mon, 19 Aug 2024 04:07:38.596601000 UTC +00:00,
+  updated_at: Mon, 19 Aug 2024 04:07:38.596601000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mT'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.[0m[31m[1m"[0m,
+  released_on: Fri, 16 Feb 2018,
+  director: [31m[1m"[0m[31mRyan Coogler[0m[31m[1m"[0m,
+  duration: [31m[1m"[0m[31m134 min[0m[31m[1m"[0m,
+  image_file_name: [31m[1m"[0m[31mblack-panther.png[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Movie:0x00007f680971b8a8[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mWonder Woman[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.821847012e9[0m,
+  created_at: Mon, 19 Aug 2024 04:07:38.647009000 UTC +00:00,
+  updated_at: Mon, 19 Aug 2024 04:07:38.647009000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhen a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.[0m[31m[1m"[0m,
+  released_on: Fri, 02 Jun 2017,
+  director: [31m[1m"[0m[31mPatty Jenkins[0m[31m[1m"[0m,
+  duration: [31m[1m"[0m[31m141 min[0m[31m[1m"[0m,
+  image_file_name: [31m[1m"[0m[31mwonder-woman.png[0m[31m[1m"[0m[32m>[0m]
